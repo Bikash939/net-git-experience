@@ -10,7 +10,7 @@ namespace net_git_experience
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello main changed!");
+            Console.WriteLine("Hello modify hello text changed!");
         }
     }
 }
